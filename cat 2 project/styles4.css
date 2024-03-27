@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffe6f2; 
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #ff99cc; 
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .food-description {
+    text-align: justify;
+    margin-bottom: 20px;
+  }
+  
+  .food-images {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .food-images img {
+    width: 45%; 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  }
+  
+  footer {
+    background-color: #ff99cc; 
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  

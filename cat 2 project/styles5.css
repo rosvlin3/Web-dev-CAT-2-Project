@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fce4ec; 
+  }
+  
+  header {
+    background-color: #ff80ab; 
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #ffffff; 
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .intro {
+    margin-bottom: 20px;
+  }
+  
+  .intro p {
+    font-size: 18px;
+  }
+  
+  .destinations {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .destinations img {
+    width: 45%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  footer {
+    background-color: #ff80ab; 
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
